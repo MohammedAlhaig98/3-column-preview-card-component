@@ -1,6 +1,6 @@
 # 3-column-preview-card-component
 
-## Site: 
+## Site: https://mohammedalhaig98.github.io/3-column-preview-card-component/
 
 ## Features
 
